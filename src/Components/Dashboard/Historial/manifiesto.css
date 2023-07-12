@@ -1,0 +1,55 @@
+.Manifiesto{
+    font-size: 8px;
+    
+}
+.Manifiesto{
+    position: relative;
+    top: -100px;
+}
+.Manifiesto p{
+    font-size: 11px;
+    margin: 1px;
+    padding: 0;
+}
+.head{
+    position: relative;
+    top:20px ;
+}
+
+.Manifiesto .texto-largo{
+    font-size: 7px;
+}
+.transformText{
+    text-transform: uppercase;
+  }
+
+  .qr{
+    position: relative;
+    bottom: -10px;
+  }
+
+.Manifiesto .subtitulos{
+    font-size: 12px;
+    font-weight: bold;
+    
+}
+
+.Manifiesto .bordes{
+    border: 1px solid;
+    height: 10px;
+}
+
+.Manifiesto .bordes td{
+    border: 1px solid;
+    height: 10px;
+}
+.Manifiesto .bordes td p{
+    text-align: center;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.Manifiesto .bordes td .border-right{
+    border-right: 1px solid black;
+}
+
